@@ -1,0 +1,8 @@
+{
+  "trackers": ["checkvisaslots", "visaslots"],
+  "cities": ["CHENNAI", "HYDERABAD", "KOLKATA", "MUMBAI", "NEW DELHI"],
+  "include_vac": false,
+  "poll_minutes": 60,
+  "max_report_age_minutes": 60,
+  "telegram_group_ids": []
+}
