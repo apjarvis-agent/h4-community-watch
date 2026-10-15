@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+*.pyc
+config.json
+.env
+*.session*
+*.sqlite*
+seen.json
